@@ -1,2 +1,2 @@
-# db-connnectivity-poc
-POC to test some connectivity between 
+# generic-dev-env
+Core configuration to build out dev environment. 
